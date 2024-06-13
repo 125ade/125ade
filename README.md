@@ -4,7 +4,7 @@
 
 In my spare time I'm creating various projects ranging from home automation to artificial intelligence through robotics
 
-**Coding Skills:** PYTHON / C / C++ / C #  / DOS / JS / HTML / CSS
+**Coding Skills:** PYTHON / C / C++ / C #  / DOS / JS / TS / HTML / CSS
 
 **Other  Skills:** IoT Development / Django / Docker / Nginx / Arduino / 3D Design / Blockchain Development
 
