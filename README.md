@@ -2,7 +2,7 @@
 
 ![](https://github.com/125ade/125ade/blob/main/github-header-image.png)
 
-In my spare time I'm creating various projects ranging from home automation to artificial intelligence through robotics
+💡 In my free time, I dive into a spectrum of projects—from automating my home and experimenting with robotics to advancing artificial intelligence. Engineering isn't just my field of study; it's my playground!
 
 **Coding Skills:**
 
@@ -14,6 +14,8 @@ In my spare time I'm creating various projects ranging from home automation to a
 ![DOS](https://img.shields.io/badge/DOS-0071C5?style=for-the-badge&logo=freedos&logoColor=white&labelColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=black)
+
+---
 
 **Other  Skills:** 
 
@@ -38,9 +40,9 @@ In my spare time I'm creating various projects ranging from home automation to a
 ![YOLO](https://img.shields.io/badge/YOLO-FF9900?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=black)
 
+---
 
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning master's degree in computer and automation engineering 
-- 👯 I’m looking to collaborate on opensource projects concerning AI, IoT, Blockchain, Industrial Automation and Web Services 
-- 🤔 I'm looking for help to improve my projects with the contribution of new knowledge and highlighting any errors to solve them with innovative and performing solutions
+- 🔭 Currently hacking away at this page—because optimization never sleeps!
+- 🌱 Deep into my Master's in Computer and Automation Engineering, exploring the intricate realms of code and automation.
+- 👯 Eager to collaborate on open-source projects involving AI, IoT, Blockchain, Industrial Automation, and Web Services. Let's push the boundaries of tech together!
+- 🤔 Always on the lookout for fellow geeks to enrich my projects with fresh insights, squash bugs, and engineer innovative, high-performance solutions.
