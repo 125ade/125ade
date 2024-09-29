@@ -5,9 +5,6 @@
 </div>
 
 💡 In my free time, I dive into a spectrum of projects—from automating my home and experimenting with robotics to advancing artificial intelligence. Engineering isn't just my field of study; it's my playground!
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=125ade&theme=dark&hide_border=true&mode=weekly&background=00000000)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=125ade&bg_color=00000000&text_color=FFFFFF&langs_count=8&layout=donut&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
