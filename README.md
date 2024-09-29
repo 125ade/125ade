@@ -4,9 +4,9 @@
 
 ## 👨‍💻 About Me :
 
-💡 In my free time, I dive into a spectrum of projects—from automating my home and experimenting with robotics to advancing artificial intelligence. Engineering isn't just my field of study; it's my playground!
+💡 In my free time, I dive into a spectrum of projects: from automating my home and experimenting with robotics to advancing artificial intelligence. Engineering isn't just my field of study; it's my playground!
 
-- 🔭 Currently hacking away at this page—because optimization never sleeps!
+- 🔭 Currently hacking away at this page, because optimization never sleeps!
 - 🌱 Deep into my Master's in Computer and Automation Engineering, exploring the intricate realms of code and automation.
 - 👯 Eager to collaborate on open-source projects involving AI, IoT, Blockchain, Industrial Automation, and Web Services. Let's push the boundaries of tech together!
 - 🤔 Always on the lookout for fellow geeks to enrich my projects with fresh insights, squash bugs, and engineer innovative, high-performance solutions.
