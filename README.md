@@ -6,8 +6,15 @@
 
 💡 In my free time, I dive into a spectrum of projects—from automating my home and experimenting with robotics to advancing artificial intelligence. Engineering isn't just my field of study; it's my playground!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=125ade&theme=dark&hide_border=true&mode=weekly&background=00000000)](https://git.io/streak-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=125ade&bg_color=00000000&text_color=FFFFFF&langs_count=8&layout=donut&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=125ade&theme=dark&hide_border=true&mode=weekly&background=00000000" alt="GitHub Streak"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=125ade&bg_color=00000000&text_color=FFFFFF&langs_count=8&layout=donut&hide_border=true" alt="Top Langs"/>
+  </a>
+</div>
+
 
 
 ## :hammer_and_wrench: Languages and Tools :
