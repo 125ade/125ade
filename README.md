@@ -1,5 +1,3 @@
-### Hi everyone 👋
-
 <div align="center">
   <img src="https://github.com/125ade/125ade/blob/main/github-header-image.png" />
 </div>
