@@ -1,13 +1,19 @@
 ### Hi everyone 👋
 
-![](https://github.com/125ade/125ade/blob/main/github-header-image.png)
+<div align="center">
+  <img src="https://github.com/125ade/125ade/blob/main/github-header-image.png" />
+</div>
 
 💡 In my free time, I dive into a spectrum of projects—from automating my home and experimenting with robotics to advancing artificial intelligence. Engineering isn't just my field of study; it's my playground!
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
----
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=125ade&theme=dark&hide_border=true&mode=weekly&background=00000000)](https://git.io/streak-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=125ade&bg_color=00000000&text_color=FFFFFF&langs_count=8&layout=donut&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=125ade&theme=dark&hide_border=true&mode=weekly&background=00000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=125ade&bg_color=00000000&text_color=FFFFFF&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <!-- Linguaggi di programmazione -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -58,10 +64,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" title="SSH" alt="SSH" width="40" height="40"/>&nbsp;
 </div>
 
-
-
-
----
+## 👨‍💻 About Me :
 
 - 🔭 Currently hacking away at this page—because optimization never sleeps!
 - 🌱 Deep into my Master's in Computer and Automation Engineering, exploring the intricate realms of code and automation.
