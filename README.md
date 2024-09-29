@@ -4,6 +4,10 @@
 
 💡 In my free time, I dive into a spectrum of projects—from automating my home and experimenting with robotics to advancing artificial intelligence. Engineering isn't just my field of study; it's my playground!
 
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=125ade&theme=dark&hide_border=true&mode=weekly&background=00000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=125ade&bg_color=00000000&text_color=FFFFFF&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 **Coding Skills:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,10 +43,6 @@
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-FF9900?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
----
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=125ade&theme=dark&hide_border=true&mode=weekly&background=000000)](https://git.io/streak-stats)
 
 ---
 
