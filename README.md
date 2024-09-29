@@ -42,6 +42,10 @@
 
 ---
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=125ade&theme=dark&hide_border=true&mode=weekly&background=000000)](https://git.io/streak-stats)
+
+---
+
 - 🔭 Currently hacking away at this page—because optimization never sleeps!
 - 🌱 Deep into my Master's in Computer and Automation Engineering, exploring the intricate realms of code and automation.
 - 👯 Eager to collaborate on open-source projects involving AI, IoT, Blockchain, Industrial Automation, and Web Services. Let's push the boundaries of tech together!
