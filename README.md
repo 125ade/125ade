@@ -13,10 +13,10 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=125ade&theme=dark&hide_border=true&mode=weekly&background=00000000" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=125ade&theme=dark&hide_border=true&mode=weekly&background=0d1117" alt="GitHub Streak"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=125ade&bg_color=00000000&text_color=FFFFFF&langs_count=8&layout=donut&hide_border=true" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=125ade&bg_color=0d1117&text_color=FFFFFF&langs_count=8&layout=donut&hide_border=true" alt="Top Langs"/>
   </a>
 </div>
 
